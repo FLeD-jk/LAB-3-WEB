@@ -87,7 +87,13 @@
             <h5 class="mt-0">gli_pro</h5>
             Зараз би точиться по гаранту...
             <div class="media mt-3">
-              <img src="" class="mr-3" alt="Аватар" />
+              <img
+                src="https://i.pinimg.com/736x/40/75/46/4075463c42fcce14ede9869582a7917d.jpg"
+                width="64"
+                height="64"
+                class="mr-3"
+                alt="Аватар"
+              />
               <div class="media-body">
                 <h5 class="mt-0">Hamster_young_boy</h5>
                 Зараз би на форумі скиглити.
