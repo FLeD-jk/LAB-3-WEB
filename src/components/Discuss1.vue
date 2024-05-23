@@ -66,7 +66,9 @@
     <h2 style="color: rgb(253, 183, 53)">Коментарі</h2>
     <div class="media mt-3">
       <img
-        src="https://cdn.discordapp.com/attachments/426033551658450944/1215720389875863592/g4S5XMb5eJFqR3MD.png?ex=65fdc6d7&is=65eb51d7&hm=efcf545d880eebc2183ef646694a68b16bb9d95d03f166b75277622aad7f6e70&"
+        src="https://i.pinimg.com/564x/d0/1e/a6/d01ea6c4de56b6e4dedca7a99b81a50c.jpg"
+        width="64"
+        height="64"
         class="mr-3"
         alt="Аватар"
       />
@@ -75,7 +77,9 @@
         Зараз би скиглити, що пушки не точяться.
         <div class="media mt-3">
           <img
-            src="https://cdn.discordapp.com/attachments/426033551658450944/1215720468255080598/4LM6AgDpRVBGDr4a.png?ex=65fdc6ea&is=65eb51ea&hm=df094604d94e6353db048e21e74f6d74781e80cf5b068c1543092c76de6ea694&"
+            src="https://i.pinimg.com/736x/9b/e0/a9/9be0a9849de05d1ca85ec0a39de46d29.jpg"
+            width="64"
+            height="64"
             class="mr-3"
             alt="Аватар"
           />
@@ -83,11 +87,7 @@
             <h5 class="mt-0">gli_pro</h5>
             Зараз би точиться по гаранту...
             <div class="media mt-3">
-              <img
-                src="https://cdn.discordapp.com/attachments/426033551658450944/1215720574257729556/2eeEDjPdFY8DjMU8.png?ex=65fdc703&is=65eb5203&hm=2c2f9c666d5857107ef68081f38f1c6fa347f8ba575f92b2c6e2ff8000bf1ff5&"
-                class="mr-3"
-                alt="Аватар"
-              />
+              <img src="" class="mr-3" alt="Аватар" />
               <div class="media-body">
                 <h5 class="mt-0">Hamster_young_boy</h5>
                 Зараз би на форумі скиглити.
@@ -97,7 +97,9 @@
         </div>
         <div class="media mt-3">
           <img
-            src="https://cdn.discordapp.com/attachments/426033551658450944/1215720614602477598/yI8A6EAeEe1rAyuY.png?ex=65fdc70d&is=65eb520d&hm=d33d443b40d39eb3a64d4d3b807495d64c2efe2df19a7c51521fd8e467635b2e&"
+            src="https://i.pinimg.com/564x/22/15/05/22150529e42d9f879003ce81521d678f.jpg"
+            width="64"
+            height="64"
             class="mr-3"
             alt="Аватар"
           />
@@ -111,7 +113,9 @@
 
     <div class="media mt-3">
       <img
-        src="https://cdn.discordapp.com/attachments/426033551658450944/1215720500450299904/N3Q9iQRk9JQGc9pU.png?ex=65fdc6f2&is=65eb51f2&hm=77ffd84d03105b6677981c169063cfd08b64ddea696af6547194faee8baeed6d&"
+        src="https://i.pinimg.com/564x/35/c0/56/35c0561589a2042c01dae6ab28b36b9e.jpg"
+        width="64"
+        height="64"
         class="mr-3"
         alt="Аватар"
       />

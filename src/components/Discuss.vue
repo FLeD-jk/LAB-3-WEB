@@ -43,7 +43,7 @@
 
         <div v-for="comment in comments" :key="comment.timestamp" class="media mt-3">
           <img
-            src="https://i.pinimg.com/564x/2a/ff/b4/2affb4335ff7c8da21f76f9a179a135a.jpg"
+            src="https://i.pinimg.com/564x/6e/31/01/6e310128e60356943de190687a0729d0.jpg"
             width="64"
             height="64"
             class="mr-3"

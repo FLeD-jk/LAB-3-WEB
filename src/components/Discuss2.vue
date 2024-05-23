@@ -24,7 +24,9 @@
       </p>
   
       <img
-        src="https://gamemag.ru/images/cache/News/News166225/3d91a3636c-2_1390x600.jpg"
+        src="https://i.pinimg.com/564x/9f/b7/3a/9fb73a628e5575be86e1f3828996937a.jpg"
+        width="64"
+            height="64"
         alt="Зображення"
         class="img-fluid"
         style="border-radius: 10px"
@@ -35,7 +37,9 @@
         <h2 style="color: rgb(253, 183, 53)">Коментарі</h2>
         <div class="media mt-3">
           <img
-            src="https://cdn.discordapp.com/attachments/426033551658450944/1215720595451412510/eTL8TBXk0eT05ziq.png?ex=65fdc708&is=65eb5208&hm=1bb834eb1c88f2106f966322bc32094552ad09ef50b97ee892c5c922688764b5"
+            src="https://i.pinimg.com/564x/4e/aa/87/4eaa87910feb654895e3827e5319b3c5.jpg"
+            width="64"
+            height="64"
             class="mr-3"
             alt="Аватар"
           />
@@ -44,7 +48,9 @@
             Знову роблять вигляд, що працють.
             <div class="media mt-3">
               <img
-                src="https://cdn.discordapp.com/attachments/426033551658450944/1215722739185360957/EVDULYbD00jT9vaV.png?ex=65fdc908&is=65eb5408&hm=563f0659c5b76e57735f2f89a9a003da8be0e21c8853599ecc4465bc04a37623"
+                src="https://i.pinimg.com/564x/dc/46/40/dc46403064ec076a128234ffdcd916c9.jpg"
+                width="64"
+            height="64"
                 class="mr-3"
                 alt="Аватар"
               />
